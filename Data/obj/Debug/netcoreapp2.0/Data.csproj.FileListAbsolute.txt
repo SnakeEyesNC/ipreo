@@ -1,0 +1,11 @@
+c:\users\chad\documents\visual studio 2017\Projects\Ipreo\Data\bin\Debug\netcoreapp2.0\Data.deps.json
+c:\users\chad\documents\visual studio 2017\Projects\Ipreo\Data\bin\Debug\netcoreapp2.0\Data.dll
+c:\users\chad\documents\visual studio 2017\Projects\Ipreo\Data\bin\Debug\netcoreapp2.0\Data.pdb
+c:\users\chad\documents\visual studio 2017\Projects\Ipreo\Data\bin\Debug\netcoreapp2.0\DomainModel.dll
+c:\users\chad\documents\visual studio 2017\Projects\Ipreo\Data\bin\Debug\netcoreapp2.0\DomainModel.pdb
+c:\users\chad\documents\visual studio 2017\Projects\Ipreo\Data\obj\Debug\netcoreapp2.0\Data.csprojResolveAssemblyReference.cache
+c:\users\chad\documents\visual studio 2017\Projects\Ipreo\Data\obj\Debug\netcoreapp2.0\Data.csproj.CoreCompileInputs.cache
+c:\users\chad\documents\visual studio 2017\Projects\Ipreo\Data\obj\Debug\netcoreapp2.0\Data.AssemblyInfoInputs.cache
+c:\users\chad\documents\visual studio 2017\Projects\Ipreo\Data\obj\Debug\netcoreapp2.0\Data.AssemblyInfo.cs
+c:\users\chad\documents\visual studio 2017\Projects\Ipreo\Data\obj\Debug\netcoreapp2.0\Data.dll
+c:\users\chad\documents\visual studio 2017\Projects\Ipreo\Data\obj\Debug\netcoreapp2.0\Data.pdb

@@ -1,0 +1,13 @@
+c:\users\chad\documents\visual studio 2017\Projects\Ipreo\BusinessServices\bin\Debug\netcoreapp2.0\BusinessServices.deps.json
+c:\users\chad\documents\visual studio 2017\Projects\Ipreo\BusinessServices\bin\Debug\netcoreapp2.0\BusinessServices.dll
+c:\users\chad\documents\visual studio 2017\Projects\Ipreo\BusinessServices\bin\Debug\netcoreapp2.0\BusinessServices.pdb
+c:\users\chad\documents\visual studio 2017\Projects\Ipreo\BusinessServices\bin\Debug\netcoreapp2.0\Data.dll
+c:\users\chad\documents\visual studio 2017\Projects\Ipreo\BusinessServices\bin\Debug\netcoreapp2.0\DomainModel.dll
+c:\users\chad\documents\visual studio 2017\Projects\Ipreo\BusinessServices\bin\Debug\netcoreapp2.0\Data.pdb
+c:\users\chad\documents\visual studio 2017\Projects\Ipreo\BusinessServices\bin\Debug\netcoreapp2.0\DomainModel.pdb
+c:\users\chad\documents\visual studio 2017\Projects\Ipreo\BusinessServices\obj\Debug\netcoreapp2.0\BusinessServices.csprojResolveAssemblyReference.cache
+c:\users\chad\documents\visual studio 2017\Projects\Ipreo\BusinessServices\obj\Debug\netcoreapp2.0\BusinessServices.csproj.CoreCompileInputs.cache
+c:\users\chad\documents\visual studio 2017\Projects\Ipreo\BusinessServices\obj\Debug\netcoreapp2.0\BusinessServices.AssemblyInfoInputs.cache
+c:\users\chad\documents\visual studio 2017\Projects\Ipreo\BusinessServices\obj\Debug\netcoreapp2.0\BusinessServices.AssemblyInfo.cs
+c:\users\chad\documents\visual studio 2017\Projects\Ipreo\BusinessServices\obj\Debug\netcoreapp2.0\BusinessServices.dll
+c:\users\chad\documents\visual studio 2017\Projects\Ipreo\BusinessServices\obj\Debug\netcoreapp2.0\BusinessServices.pdb

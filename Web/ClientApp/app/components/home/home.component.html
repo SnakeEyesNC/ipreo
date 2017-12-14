@@ -1,0 +1,26 @@
+<h1>Please select your subway stops.</h1>
+
+
+<div class="ddlSubwayStop">
+    Subway Stop 1
+</div>
+
+<select [(ngModel)]="selectedStopOne" (change)="calculateDistance()">
+    <option *ngFor="let stop of subwayStops" [ngValue]="stop">
+        {{stop.name}}
+    </option>
+</select>
+
+<div class="ddlSubwayStop">
+    Subway Stop 1
+</div>
+
+<select [(ngModel)]="selectedStopTwo" (change)="calculateDistance()">
+    <option *ngFor="let stop of subwayStops"  [ngValue]="stop">
+        {{stop.name}}
+    </option>
+</select>
+
+<div style="margin-top: 20px;">
+    <span style="font-weight: bold;">{{ distanceBetweenStops }}</span> kilometers away from eachother.
+</div>

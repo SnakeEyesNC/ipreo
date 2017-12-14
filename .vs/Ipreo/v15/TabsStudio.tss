@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\chad\documents\visual studio 2017\Projects\Ipreo\DomainModel\SubwayStop.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\chad\documents\visual studio 2017\Projects\Ipreo\Data\ISubwayStopRepository.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\chad\documents\visual studio 2017\Projects\Ipreo\Data\CommaFileSubwayStopRepository.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\chad\documents\visual studio 2017\Projects\Ipreo\Data.Tests\CommaFileSubwayStopRepositoryTests.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\chad\documents\visual studio 2017\Projects\Ipreo\Data.Tests\DataFiles\stops.txt</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\chad\documents\visual studio 2017\Projects\Ipreo\BusinessServices\SubwayStopManager.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>Api</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\chad\documents\visual studio 2017\Projects\Ipreo\Api\Controllers\SubwayStops\SubwayStopController.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\chad\documents\visual studio 2017\Projects\Ipreo\BusinessServices\ISubwayStopManager.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\chad\documents\visual studio 2017\Projects\Ipreo\Api\Controllers\SubwayStops\ApiSubwayStop.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\chad\documents\visual studio 2017\Projects\Ipreo\Api\Startup.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>Web</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\chad\documents\visual studio 2017\Projects\Ipreo\Web\ClientApp\app\components\home\home.component.css</string>
+      <string>c:\users\chad\documents\visual studio 2017\Projects\Ipreo\Web\ClientApp\app\components\home\home.component.html</string>
+      <string>c:\users\chad\documents\visual studio 2017\Projects\Ipreo\Web\ClientApp\app\components\home\home.component.ts</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\chad\documents\visual studio 2017\Projects\Ipreo\Web\ClientApp\app\services\subway-stop.service.ts</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\chad\documents\visual studio 2017\Projects\Ipreo\Web\ClientApp\app\models\subway-stop.ts</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\chad\documents\visual studio 2017\Projects\Ipreo\Web\ClientApp\app\app.shared.module.ts</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\chad\documents\visual studio 2017\Projects\Ipreo\Web\ClientApp\app\components\navmenu\navmenu.component.html</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\users\chad\documents\visual studio 2017\Projects\Ipreo\Web\ClientApp\app\components\app\app.component.html</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>Output</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
